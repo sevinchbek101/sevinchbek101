@@ -3,9 +3,9 @@
 🎯 *Beginner Programmer* | 💻 *Learning JavaScript & Python*  
 📍 Xonqa, Khorezm, Uzbekistan  
 📧 sevinchbek0001@gmail.com  
-🔗 [GitHub](https://github.com/sevinchbek101)
-🔗 [About me](https://sevinchbekshaxsiyblog.netlify.app/)
-🔗 [Telegiram](https://t.me/sevinchbek101)
+🔗 [GitHub](https://github.com/sevinchbek101) 
+🔗 [About me](https://sevinchbekshaxsiyblog.netlify.app/) 
+🔗 [Telegiram](https://t.me/sevinchbek101) 
 
 
 ---
@@ -66,5 +66,5 @@ Explore my small projects and practice code:
 ## 📫 Contact Me
 
 📧 Email: [sevinchbek0001@gmail.com](mailto:sevinchbek0001@gmail.com)  
-🔗 GitHub: [github.com/sevinchbek101](https://github.com/sevinchbek101)
+🔗 GitHub: [github.com/sevinchbek101](https://github.com/sevinchbek101) 
 🔗 Telegiram: [@sevinchbek101](https://t.me/sevinchbek101)
