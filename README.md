@@ -1,6 +1,6 @@
 # 👨‍💻 Muhammedov Sevinchbek
 
-🚀 *Aspiring Software Developer* | 💻 *JavaScript & Python Enthusiast*  
+🎯 *Beginner Programmer* | 💻 *Learning JavaScript & Python*  
 📍 Xonqa, Khorezm, Uzbekistan  
 📧 sevinchbek0001@gmail.com  
 🔗 [GitHub](https://github.com/sevinchbek101)
@@ -10,55 +10,58 @@
 ## 🧠 Skills
 
 - 💻 **Languages**: JavaScript, Python, C++, HTML, CSS  
-- 🌐 **Frontend**: HTML5, CSS3, JavaScript (DOM)  
-- 🧮 **Backend**: Python (Flask basics), C++  
-- ⚙️ **Tools**: Git, GitHub, VS Code  
+- 🧰 **Tools**: Git, GitHub, VS Code  
+- 📚 **Currently Learning**: JavaScript DOM, Python functions, C++ basics
+
+---
+
+## 👨‍🎓 Education
+
+🏫 **School Student**  
+Currently studying in high school, Xonqa, Khorezm, Uzbekistan.
 
 ---
 
 ## 🧳 Experience
 
-### 👨‍💻 Junior Developer — Freelance (2 Years)
-- Developed and maintained small-scale websites using HTML, CSS, and JavaScript.  
-- Created basic Python applications for data processing and automation.  
-- Participated in GitHub-based collaborations and contributed to open-source repositories.
-
----
-
-## 🎓 Education
-
-🏫 **High School Student**  
-Currently studying at a secondary school in Xonqa, Khorezm region.  
+🎓 **Student Developer (Beginner Level)**  
+- Learning programming through online tutorials and small projects  
+- Practicing algorithms in C++ and Python  
+- Building basic websites with HTML, CSS, and JavaScript  
 
 ---
 
 ## 📂 Projects
 
-### 🌐 [GitHub Profile](https://github.com/sevinchbek101)
-Explore my repositories on GitHub. I regularly work on:
-- Mini games using JavaScript and Python  
-- Simple websites with responsive design  
-- Beginner C++ algorithm exercises
+### 🖥️ Mini Projects on GitHub  
+Explore my small projects and practice code:  
+🔗 [github.com/sevinchbek101](https://github.com/sevinchbek101)
+
+- JavaScript-based calculator  
+- Python console games (guess the number, quiz game)  
+- C++ simple algorithms and tasks  
+- Responsive personal homepage with HTML/CSS
 
 ---
 
 ## 🏅 Achievements
 
-- ✅ Completed various online coding courses (HTML/CSS, JavaScript, Python)  
-- 💡 Built multiple personal projects and hosted them on GitHub  
-- 🤝 2 years of self-taught programming experience
+- ✅ Self-taught in web development basics  
+- 📁 Created multiple beginner-level projects  
+- 🔁 Regularly practicing and uploading code on GitHub
 
 ---
 
-## 🗣️ Languages
+## 🌍 Languages
 
 - 🇺🇿 Uzbek – Native  
 - 🇷🇺 Russian – Intermediate  
-- 🇺🇸 English – Basic (improving daily)  
+- 🇺🇸 English – Basic  
 
 ---
 
 ## 📫 Contact Me
 
-Feel free to reach out via [email](mailto:sevinchbek0001@gmail.com) or check out my latest projects on [GitHub](https://github.com/sevinchbek101).
+📧 Email: [sevinchbek0001@gmail.com](mailto:sevinchbek0001@gmail.com)  
+🔗 GitHub: [github.com/sevinchbek101](https://github.com/sevinchbek101)
 
