@@ -4,6 +4,7 @@
 📍 Xonqa, Khorezm, Uzbekistan  
 📧 sevinchbek0001@gmail.com  
 🔗 [GitHub](https://github.com/sevinchbek101)
+🔗 [About me](https://sevinchbekshaxsiyblog.netlify.app/)
 
 ---
 
