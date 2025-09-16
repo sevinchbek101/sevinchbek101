@@ -67,4 +67,4 @@ Explore my small projects and practice code:
 
 📧 Email: [sevinchbek0001@gmail.com](mailto:sevinchbek0001@gmail.com)  
 🔗 GitHub: [github.com/sevinchbek101](https://github.com/sevinchbek101)
-
+🔗 Telegiram: [@sevinchbek101](https://t.me/sevinchbek101)
